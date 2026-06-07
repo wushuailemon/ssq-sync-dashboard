@@ -1,0 +1,1 @@
+file:///home/workdir/artifacts/ssq-sync-dashboard/scripts/fetch_ssq.py
